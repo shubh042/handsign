@@ -1,0 +1,104 @@
+item { 
+	alphabet:'A'
+	id:1
+}
+item { 
+	alphabet:'B'
+	id:2
+}
+item { 
+	alphabet:'C'
+	id:3
+}
+item { 
+	alphabet:'D'
+	id:4
+}
+item { 
+	alphabet:'E'
+	id:5
+}
+item { 
+	alphabet:'F'
+	id:6
+}
+item { 
+	alphabet:'G'
+	id:7
+}
+item { 
+	alphabet:'H'
+	id:8
+}
+item { 
+	alphabet:'I'
+	id:9
+}
+item { 
+	alphabet:'J'
+	id:10
+}
+item { 
+	alphabet:'K'
+	id:11
+}
+item { 
+	alphabet:'L'
+	id:12
+}
+item { 
+	alphabet:'M'
+	id:13
+}
+item { 
+	alphabet:'N'
+	id:14
+}
+item { 
+	alphabet:'O'
+	id:15
+}
+item { 
+	alphabet:'P'
+	id:16
+}
+item { 
+	alphabet:'Q'
+	id:17
+}
+item { 
+	alphabet:'R'
+	id:18
+}
+item { 
+	alphabet:'S'
+	id:19
+}
+item { 
+	alphabet:'T'
+	id:20
+}
+item { 
+	alphabet:'U'
+	id:21
+}
+item { 
+	alphabet:'V'
+	id:22
+}
+item { 
+	alphabet:'W'
+	id:23
+}
+item { 
+	alphabet:'X'
+	id:24
+}
+item { 
+	alphabet:'Y'
+	id:25
+}
+item { 
+	alphabet:'Z'
+	id:26
+}
